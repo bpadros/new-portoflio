@@ -202,8 +202,8 @@ const projects = () => {
                 github="https://movie-tickets-65rfzdvgl-bpadros.vercel.app"
               />
             </div>
-
-            <div className="col-span-6 sm:col-span-12">
+{/**
+ <div className="col-span-6 sm:col-span-12">
               <Project
                 type="Website Template"
                 img={project5}
@@ -221,6 +221,8 @@ const projects = () => {
                 github="https://github.com/codebucks27"
               />
             </div>
+*/}
+           
           </div>
         </Layout>
       </main>
