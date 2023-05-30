@@ -188,7 +188,7 @@ const projects = () => {
                 title="The clothing store"
                 img={project8}
                 link="https://thestore.onrender.com"
-                github="https://thestore.onrender.com"
+                github="https://github.com/bpadros/a-nest-online-store1"
               />
             </div>
 
@@ -199,7 +199,7 @@ const projects = () => {
                 summary="This React.js project was based in any movie-ticket app, the movies are from an API, in which you can look the movies that are released on theaters and after that get you ticket."
                 img={project9}
                 link="https://movie-tickets-65rfzdvgl-bpadros.vercel.app"
-                github="https://movie-tickets-65rfzdvgl-bpadros.vercel.app"
+                github="https://github.com/bpadros/movie-tickets-web"
               />
             </div>
 {/**
