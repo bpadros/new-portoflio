@@ -8,7 +8,7 @@ import { useInView, useMotionValue, useSpring } from "framer-motion";
 import Head from "next/head";
 import Image from "next/image";
 import React, { useEffect, useRef } from "react";
-import profilePic from "../../public/images/profile/developer-pic-2.jpg";
+import profilePic from "../../public/images/perfil cv.jpg";
 
 const AnimatedNumbers = ({ value }) => {
   const ref = useRef(null);
@@ -53,12 +53,12 @@ const about = () => {
           <div className="grid w-full grid-cols-8 gap-16 sm:gap-8">
             <div className="col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8">
               <h2 className="mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75">
-                Biography
+                My Story
               </h2>
               <p className="font-medium">
-                Hi, I&apos;m CodeBucks, a web developer and UI/UX designer with a
+                Hi, I&apos;m Benjamin Padros, a web developer and UI/UX designer with a
                 passion for creating beautiful, functional, and user-centered
-                digital experiences. With 4 years of experience in the field. I
+                digital experiences. With 2 years of experience in the field. I
                 am always looking for new and innovative ways to bring my
                 clients&apos; visions to life.
               </p>
