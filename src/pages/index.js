@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
       <Head>
-      <title>Awesome Portfolio Built with Nextjs</title>
+      <title>Benjamin Padros Portfolio</title>
         <meta
           name="description"
           content="Explore CodeBucks's Next.js developer portfolio and 
@@ -43,7 +43,7 @@ export default function Home() {
                 '/>
                 <p className='my-4 text-base font-medium md:text-sm sm:text-xs'>
                 As a skilled full-stack developer, I am dedicated to turning ideas into innovative web applications. 
-Explore my latest projects and articles, showcasing my expertise in React.js and web development.
+Explore my latest projects , showcasing my expertise in React.js and web development.
                 </p>
                 <div className='flex items-center self-start mt-2 lg:self-center'>
                   <Link href="/bpadros.pdf" target={"_blank"}

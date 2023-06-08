@@ -7,7 +7,7 @@ import Link from "next/link";
 import React from "react";
 
 import project2 from "../../public/images/projects/nft-collection-website-cover-image.jpg";
-
+import project10 from '../../public/images/Captura de Pantalla 2023-06-08 a la(s) 20.17.05.png'
 import project5 from "../../public/images/projects/agency-website-cover-image.jpg";
 import project6 from "../../public/images/projects/devdreaming.jpg";
 import project7 from '../../public/images/news-blog-body.png'
@@ -177,7 +177,7 @@ const projects = () => {
               <Project
                 type="Website Template"
                 title="Devsafio"
-                img={project2}
+                img={project10}
                 link="https://ctd5-frontend.vercel.app/"
                 github="https://github.com/dlab-team/ctd5-frontend"
               />
@@ -202,26 +202,7 @@ const projects = () => {
                 github="https://github.com/bpadros/movie-tickets-web"
               />
             </div>
-{/**
- <div className="col-span-6 sm:col-span-12">
-              <Project
-                type="Website Template"
-                img={project5}
-                title="Agency Website Template"
-                link="https://devdreaming.com/videos/build-stunning-fashion-studio-website-with-reactJS-locomotive-scroll-gsap"
-                github="https://github.com/codebucks27/wibe-studio"
-              />
-            </div>
-            <div className="col-span-6 sm:col-span-12">
-              <Project
-                type="Blog Website"
-                img={project6}
-                title="DevDreaming"
-                link="https://devdreaming.com"
-                github="https://github.com/codebucks27"
-              />
-            </div>
-*/}
+
            
           </div>
         </Layout>
